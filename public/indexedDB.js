@@ -1,6 +1,6 @@
 var db = new Dexie("Carrito");
 var db2 = new Dexie("Pedido");
-let api='https://pwa-tere.vercel.app/';
+let api='https://xca-xca-ve.vercel.app/';
 
 db.version(1).stores({
    
