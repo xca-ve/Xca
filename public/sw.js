@@ -24,7 +24,7 @@ let files_appShell = [
     "/icons/icon-256x256.png",
     "/icons/icon-384x384.png",
     "/icons/icon-512x512.png",
-    "/indexedDB.js","https://pwa-tere.vercel.app/productos"
+    "/indexedDB.js","https://xca-xca-ve.vercel.app/productos"
 ];
 //Se crea el cache inmutable
 let inmutableFiles = [
